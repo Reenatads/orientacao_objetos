@@ -1,2 +1,2 @@
 # orientacao_objetos
-Repositório da discuplina de programação orientada a objetos
+Repositório da disciplina de programação orientada a objetos
